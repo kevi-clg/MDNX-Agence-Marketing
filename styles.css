@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(120, 119, 119);
+}
+
+.mdnx{
+    text-align: center;
+    font-size: 70px;
+    font-family: 'Asset';
+    
+}
+
+.center{
+    text-align: center;
+    
+}
+
+.title{
+    font-size: 30px;
+    font-weight: bold;
+    margin-bottom: 50px;
+    display: flex;
+    margin: auto;
+    width: 250px;
+    height: 60px;
+}
+
+div{
+    text-decoration: none;
+}
+
+.flex{
+    display: flex;
+    text-align: center;
+}
+
+.vertical{
+    margin-top:50px;
+    padding:10px;
+    border:solid 2px black;
+    flex-direction: column;
+    width: 450px;
+    margin: auto;
+    font-size: 70px;
+    text-decoration: none;
+    color:black;
+   
+}  
+
+.vertical:hover {
+    
+    background-color: black;
+}
+a:hover{
+    color: green;
+    background-color: black;
+
+}
+
+
+a{
+    text-decoration: none;
+    color:green;
+    border: 1px black;
+    font-weight: bold;
+}
